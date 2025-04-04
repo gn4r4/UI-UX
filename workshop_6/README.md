@@ -59,7 +59,7 @@
 >![image](https://github.com/gn4r4/UI-UX/blob/main/workshop_6/images/Frame1.png?raw=true)\
 >Рисунок 9 – Medium
 
->![image](https://github.com/gn4r4/UI-UX/blob/main/workshop_6/images/Frame2.png?raw=true)\
+>![image](https://github.com/gn4r4/UI-UX/blob/main/workshop_6/images/Frame22.png?raw=true)\
 >Рисунок 10 – Advanced
 
 Посилання на [проєкт Figma](https://www.figma.com/design/IskIprC67Z2cU9osvjMGBz/Untitled?node-id=0-1&t=2ipXmNTxigE4Mr7P-1).
