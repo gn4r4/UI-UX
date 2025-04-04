@@ -51,7 +51,7 @@
 
 Додаємо нижні елементи
 
->![image](https://github.com/gn4r4/UI-UX/blob/main/workshop_6/images/9.png?raw=true)\
+>![image](https://github.com/gn4r4/UI-UX/blob/main/workshop_6/images/99.png?raw=true)\
 >Рисунок 8 – Результат роботи "Advanced"
 
 ### 3.	Результат виконання завдання
