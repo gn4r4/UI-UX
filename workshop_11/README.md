@@ -40,12 +40,12 @@
 
 | Тип гармонії       | Скріншот | Опис |  
 |--------------------|----------|------|  
-| **Analogous**      | ![image](https://github.com/gn4r4/UI-UX/blob/main/workshop_11/images/analogous.png?raw=true) | Сусідні кольори створюють спокійний ефект. |  
-| **Monochromatic**          | ![image](https://github.com/gn4r4/UI-UX/blob/main/workshop_11/images/monochromatic.png?raw=true) | Вібране поєднання (синій, жовтий, пурпурний) — енергійне. |  
-| **Triad**          | ![image](https://github.com/gn4r4/UI-UX/blob/main/workshop_11/images/triad.png?raw=true) | Вібране поєднання (синій, жовтий, пурпурний) — енергійне. |  
-| **Complementary**          | ![image](https://github.com/gn4r4/UI-UX/blob/main/workshop_11/images/complementary.png?raw=true) | Вібране поєднання (синій, жовтий, пурпурний) — енергійне. |  
-| **Split Complementary**          | ![image](https://github.com/gn4r4/UI-UX/blob/main/workshop_11/images/split_complementary.png?raw=true) | Вібране поєднання (синій, жовтий, пурпурний) — енергійне. |  
-| **Square**          | ![image](https://github.com/gn4r4/UI-UX/blob/main/workshop_11/images/square.png?raw=true) | Вібране поєднання (синій, жовтий, пурпурний) — енергійне. |  
+| **Analogous**      | ![image](https://github.com/gn4r4/UI-UX/blob/main/workshop_11/images/analogous.png?raw=true) | Сусідні кольори на колірному крузі (наприклад, жовтий, жовто-зелений, зелений). Створюють гармонійний та спокійний ефект. |  
+| **Monochromatic**          | ![image](https://github.com/gn4r4/UI-UX/blob/main/workshop_11/images/monochromatic.png?raw=true) | Відтінки, тони та тіні одного кольору (наприклад, світло-блакитний, блакитний, темно-блакитний). Виглядає елегантно та цілісно. |  
+| **Triad**          | ![image](https://github.com/gn4r4/UI-UX/blob/main/workshop_11/images/triad.png?raw=true) | Три кольори, рівномірно розташовані на колірному крузі (наприклад, червоний, синій, жовтий). Дає яскравий, контрастний ефект. |  
+| **Complementary**          | ![image](https://github.com/gn4r4/UI-UX/blob/main/workshop_11/images/complementary.png?raw=true) | Протилежні кольори на колірному крузі (наприклад, червоний та зелений). Максимальний контраст, привертає увагу. |  
+| **Split Complementary**          | ![image](https://github.com/gn4r4/UI-UX/blob/main/workshop_11/images/split_complementary.png?raw=true) | Основний колір + два сусідніх до його комплементарного (наприклад, синій, жовто-оранжевий, червоно-оранжевий). Менш агресивний, ніж Complementary, але все ще контрастний. |  
+| **Square**          | ![image](https://github.com/gn4r4/UI-UX/blob/main/workshop_11/images/square.png?raw=true) | Чотири кольори, рівновіддалені на колірному крузі (наприклад, фіолетовий, оранжевий, зелений, червоний). Багата та динамічна палітра. |  
 
 ### 2. Палітри з зображення (Extract Theme)  
 **Зображення**: 
