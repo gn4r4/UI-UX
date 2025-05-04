@@ -30,5 +30,6 @@
 >Рисунок 4 – Результат третього продукту
 
 Посилання на [проєкт Figma](https://www.figma.com/design/2V6tRI0Qywj52vydkQJMYK/10?node-id=9-239&t=kroGDmDmQAfqKuOI-1).
+
 Посилання на [прототип](https://www.figma.com/proto/2V6tRI0Qywj52vydkQJMYK/10?node-id=9-239&t=kroGDmDmQAfqKuOI-1).
 
